@@ -64,6 +64,11 @@ The ClassRegister is a Java program designed to manage student information and a
 - Student Class: A nested (inner) class that represents a student, with attributes for name, student ID, and attendance status (present/absent).
 - File Storage: The program stores student data in a plain text file (register.txt), with each line representing a student and their information separated by commas.
 
-### How it works:
-
-
+## How it works:
+### 1. Create the File (Initially): The first time you run the program, the register.txt file will not exist. 
+   That's fine; the program will create it when you add students and exit.
+### 2. Add Students: Use option 1 to add students to the register.
+### 3. Mark Attendance: Use option 2 to mark attendance. The available options are ###(y/n) with y-yes the student is present and ###n-no the student is absent.
+### 4. View Register: Use option 3 to view the register.
+### 5. Exit: Use option 4 to exit the program. This will save the register to the register.txt file.
+### 6. Run Again: When you run the program again, it will load the student data from the register.txt file.
