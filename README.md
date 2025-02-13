@@ -71,7 +71,7 @@ The ClassRegister is a Java program designed to manage student information and a
 #### 2. Add Students: 
    Use option 1 to add students to the register.
 #### 3. Mark Attendance: 
-   Use option 2 to mark attendance. The available options are ###(y/n) with y-yes the student is present and ###n-no the student is absent.
+   Use option 2 to mark attendance. The available options are **(y/n)** with **y-yes** the student is **Present** and **n-no** the student is **Absent**.
 #### 4. View Register: 
    Use option 3 to view the register.
 #### 5. Exit: 
